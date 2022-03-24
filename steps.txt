@@ -1,0 +1,7 @@
+1)npm init 
+
+2) npm i -D webpack webpack-cli
+
+3) package.json -> scripts -> "build" : "webpack --mode production"
+    npm run build 
+
